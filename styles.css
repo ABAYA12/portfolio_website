@@ -178,6 +178,11 @@ footer {
     padding: 1em 0;
 }
 
+#contact {
+    text-align: center;
+    padding: 1em 0;
+}
+
 @keyframes fadeIn {
     from { opacity: 0; }
     to { opacity: 1; }
